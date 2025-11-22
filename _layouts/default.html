@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="icon" type="image/x-icon" href="/assets/img/favicon.png">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>
+          {{ site.title | default: site.github.repository_name }}
+        </h1>
+        
+        <img src="{{site.logo | relative_url}}" alt="[Ifeoma Okoh]" class="profile-image" />
+
+          <div class="interest-list">
+            <h3>Quick Links:</h3>
+            <a href="mailto:ugochukwulotanna@gmail.com">Email</a><br>
+          <a href="https://www.researchgate.net/profile/Lotanna-Ugochukwu" class="researchgate">Research Gate</a><br>
+          <a href="https://www.linkedin.com/in/lotanna-ugochukwu/" class="linkedin">Linkedin</a><br>
+          </div>
+
+      </header>
+      <section>
+        <nav class="nav-bar">
+          <h3 id="home--publications--cv">
+            <a href="#about-me">Home</a> | 
+            <a href="#publications">Publications</a> | 
+            <!-- <a href="#teaching-and-mentoring">Teaching</a> | -->
+            <a href="/assets/.pdf" target="_blank">CV</a>
+          </h3>
+        </nav>
+        <div class="page-content">
+          {{ content }}
+        </div>
+
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </section>
+      <footer>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+    <script>
+      var navbar = document.querySelector('.nav-bar')
+      window.onscroll = function() {
+        if (window.pageYOffset > 5) {
+          navbar.classList.add('scrolled')
+        } else {
+          navbar.classList.remove('scrolled')
+        }
+      }
+    </script>
+   
+    <div style="display:none;">
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=NhrTLqjQVsuBqoTeqjB9xA__6ccM-exk1DMVENoOLN4&cl=ffffff&w=a"></script>
+</div>
+  </body>
+</html>
