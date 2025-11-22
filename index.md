@@ -42,8 +42,6 @@ Previously, I completed my master’s degree in Public policy from University of
   </div>
 </li><br>
 
-
-</li>
 </ul>
 </div>
 
