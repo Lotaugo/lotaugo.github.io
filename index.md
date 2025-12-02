@@ -60,7 +60,7 @@ Previously, I completed my master’s degree in Public policy from University of
 
 ### Selected Conference
 
-<div class="presentations">
+<div class="publications">
 <ul class="bibliography">
 <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
