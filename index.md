@@ -5,7 +5,7 @@ layout: default
 
 ### About Me
 
-Hi I'm Lotanna, a monitoring and evaluation officer.
+Hi I'm Lotanna, a Monitoring and Evaluation Officer of donor-funded public health programs - TB, HIV, COVID-19 & DAT.
 
 My research focuses on infectious disease modelling and surveillance.
 
@@ -16,8 +16,10 @@ Previously, I completed my master’s degree in Public policy from University of
 ### Research Interests
 
 - Epidemiology
-- Infectious Disease Surveillance
+- Infectious Disease modelling and Surveillance
+- Epi Methods
 - Digital Health
+- Implementation science
 
 <br>
 
