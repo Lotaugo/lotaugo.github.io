@@ -43,7 +43,12 @@ Previously, I completed my master’s degree in Public policy from University of
     </div>
   </div>
 </li><br>
-
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;">
+    <div class="title">Strengthening Case Finding in Public Facilities with Limited Diagnostic Testing Using the Healthcare Worker Model for Sputum Transport: Insights from Kano State, Nigeria.</a></div>
+    <div class="author">Ugochukwu, L., Chukwuogo, O., Ogbudebe, C., Mangoro, Z., Zephaniah, G., Bajehson, M., Nwokoye, N., Gordon, I., Useni, S., Odume, B., Ukwedeh, O.</div>
+    <div class="periodical"><em>BMC Health Services. Under review.</em></div>
+    </div>
+  </div>
 </ul>
 </div>
 
