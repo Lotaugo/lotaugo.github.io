@@ -54,7 +54,6 @@ Previously, I completed my master’s degree in Public policy from University of
     <div class="title">Routine Active Case Finding in Nigerian Penitentiary Institutions: Comparing Yields from Digital X-Ray with CAD4TB and WHO 4-Symptom Screening.</div>
     <div class="author">Chukwuogo, O., Odume, B., Ugochukwu, L., Ogbudebe, C., Chukwu, E., Useni, S., Nwokoye, N., Sheshi, M., Nongo, D., Ihesie, A., Eneogu, R., Ubochioma, E.</div>
     <div class="periodical"><em>BMC Infectious Diseases. Under review.</em></div>
-    </div>
   </div>
  <br>
 
