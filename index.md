@@ -63,11 +63,11 @@ Previously, I completed my master’s degree in Public policy from University of
 <ul class="bibliography">
 <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
-    <div class="title"><a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria">The TB Surge intervention: an optimized approach to TB case-finding in Nigeria</a></div>
-    <div class="author">Ogoamaka, C., Bethrand, O., <strong>Lotanna, U.</strong>, Chidubem, O., Sani, U., Nkiru, N., Mamman, B., Daniel, E., Chijioke, O., Oloruntobi, N., and Austin, I.</div>
-    <div class="periodical"><em>Public Health Action, 13(4), pp.136-141.</em></div>
+    <div class="title"><a href="https://www.iasociety.org/sites/default/files/IAS2025/abstract-book/IAS-2025_Abstracts_Medium.pdf#page=465">Trends in TB/HIV co-infection and TB treatment outcomes in selected tertiary facilities in North Central Nigeria: A 5-year review</a></div>
+    <div class="author">Salau O, Opara P, Ogbudebe C, Ugochukwu L, Bot T, Diara J, Kifasi R, Odume B.</div>
+    <div class="periodical"><em>13th IAS Conference on HIV Science, Kigali. 2025</em></div>
     <div class="links">
-      <a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
+      <a href="https://www.iasociety.org/sites/default/files/IAS2025/abstract-book/IAS-2025_Abstracts_Medium.pdf#page=465" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
 </ul>
