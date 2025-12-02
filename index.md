@@ -45,13 +45,13 @@ Previously, I completed my master’s degree in Public policy from University of
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title">Strengthening Case Finding in Public Facilities with Limited Diagnostic Testing Using the Healthcare Worker Model for Sputum Transport: Insights from Kano State, Nigeria.</div>
-    <div class="author">Ugochukwu, L., Chukwuogo, O., Ogbudebe, C., Mangoro, Z., Zephaniah, G., Bajehson, M., Nwokoye, N., Gordon, I., Useni, S., Odume, B., Ukwedeh, O.</div>
+    <div class="author"><strong>Ugochukwu, L.<strong>, Chukwuogo, O., Ogbudebe, C., Mangoro, Z., Zephaniah, G., Bajehson, M., Nwokoye, N., Gordon, I., Useni, S., Odume, B., Ukwedeh, O.</div>
     <div class="periodical"><em>BMC Health Services. Under review.</em></div>
   </div>
   <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title">Routine Active Case Finding in Nigerian Penitentiary Institutions: Comparing Yields from Digital X-Ray with CAD4TB and WHO 4-Symptom Screening.</div>
-    <div class="author">Chukwuogo, O., Odume, B., Ugochukwu, L., Ogbudebe, C., Chukwu, E., Useni, S., Nwokoye, N., Sheshi, M., Nongo, D., Ihesie, A., Eneogu, R., Ubochioma, E.</div>
+    <div class="author">Chukwuogo, O., Odume, B., <strong>Ugochukwu, L.<strong>, Ogbudebe, C., Chukwu, E., Useni, S., Nwokoye, N., Sheshi, M., Nongo, D., Ihesie, A., Eneogu, R., Ubochioma, E.</div>
     <div class="periodical"><em>BMC Infectious Diseases. Under review.</em></div>
   </div>
    
@@ -64,7 +64,7 @@ Previously, I completed my master’s degree in Public policy from University of
 <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title"><a href="https://www.iasociety.org/sites/default/files/IAS2025/abstract-book/IAS-2025_Abstracts_Medium.pdf#page=465">Trends in TB/HIV co-infection and TB treatment outcomes in selected tertiary facilities in North Central Nigeria: A 5-year review</a></div>
-    <div class="author">Salau O, Opara P, Ogbudebe C, Ugochukwu L, Bot T, Diara J, Kifasi R, Odume B.</div>
+    <div class="author">Salau O, Opara P, Ogbudebe C, <strong>Ugochukwu L<strong>, Bot T, Diara J, Kifasi R, Odume B.</div>
     <div class="periodical"><em>13th IAS Conference on HIV Science, Kigali. 2025</em></div>
     <div class="links">
       <a href="https://www.iasociety.org/sites/default/files/IAS2025/abstract-book/IAS-2025_Abstracts_Medium.pdf#page=465" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
