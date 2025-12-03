@@ -44,6 +44,7 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
       <a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
+ 
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title">Strengthening Case Finding in Public Facilities with Limited Diagnostic Testing Using the Healthcare Worker Model for Sputum Transport: Insights from Kano State, Nigeria.</div>
@@ -72,36 +73,42 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
       <a href="https://www.iasociety.org/sites/default/files/IAS2025/abstract-book/IAS-2025_Abstracts_Medium.pdf#page=465" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
+ 
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title">Tuberculosis in the Elderly: A Growing Challenge and the Need for Specialized Care in Anambra State.</div>
     <div class="author">Chukwu M, Galadima A, <strong>Ugochukwu L</strong>, Ilueme PC, Sheshi M, Odume B, Adekunle A, Vincent E, Adesigbin A, Chijioke-Akaniro O, Ssekitoleko J, Reilly A.</div>
     <div class="periodical"><em>The Union World Conference on Lung Health, Copenhagen. 2025</em></div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title">Leveraging AIM250 ODK Vantage Solution for Enhanced Performance Monitoring and Data-Driven Decision-Making in TB and HIV Grant Implementation by KNCV Nigeria.</div>
     <div class="author">Chukwu M, <strong>Ugochukwu L</strong>, Okoh A, Sheshi M, Odume B, Madubuko UE, Adebayo O, Adetiba T, Chijioke-Akaniro O, Ubochioma E, Reilly A.</div>
     <div class="periodical"><em>The Union World Conference on Lung Health, Copenhagen. 2025</em></div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title">Enhancing Tuberculosis Control Efforts Among High-Risk Populations: Results from Hospital-Based Targeted Service Delivery Point Screening in Nasarawa State, Nigeria.</div>
     <div class="author">Igwetu C, Tukur M, <strong>Ugochukwu L</strong>, Emefieh J, Odume B.</div>
     <div class="periodical"><em>The Union World Conference on Lung Health, Copenhagen. 2025</em></div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title">Integrating Tuberculosis Services into Mobile Clinics in Nomadic Settings: An Evaluation of the TB LON 1&2 Wellness on Wheels Innovation in Bauchi State, Nigeria.</div>
     <div class="author">Igwetu C, Useni S, Odume B, Tukur M, Ma'ab Baffa H, <strong>Ugochukwu L</strong>.</div>
     <div class="periodical"><em>The Union World Conference on Lung Health, Copenhagen. 2025</em></div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title">Leveraging mHealth solutions for enhanced TB case finding: The CommCare App experience in TB LON 1 & 2, KNCV Nigeria.</div>
     <div class="author">Ogogo J, Gordon I, Ugochukwu L, Ogbudebe C, Odume B.</div>
     <div class="periodical"><em> The Nigeria Implementation Science Alliance Conference, Abuja. 2025</em></div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title"><a href="https://documents.theunion.org/web-uploads/UNION2024_Abstracts.pdf#page=131">The impact of sustained advocacies to clinicians in strengthening childhood TB surveillance and GeneXpert stool assay optimisation: lessons from the TB-LON project in Nigeria.</a></div>
@@ -111,6 +118,7 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
       <a href="https://documents.theunion.org/web-uploads/UNION2024_Abstracts.pdf#page=131" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title"><a href="https://documents.theunion.org/web-uploads/UNION2024_Abstracts.pdf#page=177">Finding the missing people with TB through targeted active TB screening in slums and hard-to-reach areas using a peer-network strategy in Nigeria.</a></div>
@@ -120,6 +128,7 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
       <a href="https://documents.theunion.org/web-uploads/UNION2024_Abstracts.pdf#page=177" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title"><a href="https://documents.theunion.org/web-uploads/UNION2024_Abstracts.pdf#page=374">Addressing gender disparities in TB diagnosis, treatment, and care: Insights from the KNCV TB LON Project in Nigeria.</a></div>
@@ -129,6 +138,7 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
       <a href="https://documents.theunion.org/web-uploads/UNION2024_Abstracts.pdf#page=374" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title"><a href="https://documents.theunion.org/web-uploads/UNION2024_Abstracts.pdf#page=454">Impact of PAED surge on pediatrics TB case detection in Katsina State.</a></div>
@@ -138,6 +148,7 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
       <a href="https://documents.theunion.org/web-uploads/UNION2024_Abstracts.pdf#page=454" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title"><a href="https://documents.theunion.org/web-uploads/UNION2024_Abstracts.pdf#page=458">The impact of targeted advocacy to community leaders in improving active case finding in the community: The Benue WOW Truck experience.</a></div>
@@ -147,24 +158,28 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
       <a href="https://documents.theunion.org/web-uploads/UNION2024_Abstracts.pdf#page=458" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title">Evaluating the Impact of Online Competency Based Training (CBT) on Program Quality: The KNCV Nigeria TIFA Project Experience.</div>
     <div class="author">Gordon I, <strong>Ugochukwu L</strong>, Chukwuogo O, Sheshi M, Odume B.</div>
     <div class="periodical"><em>The Nigeria Implementation Science Alliance Conference, Abuja. 2024</em></div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title">Driving contact investigation intervention in the private sector using patent medicine vendors: an experience from the TB-LON project implementation in Katsina state.</div>
     <div class="author"><strong>Ugochukwu L</strong>, Usman-Garba H, Oyawale M, Chukwuogo O, Ogbudebe C, Sheshi M, Gordon I, Odume B.</div>
     <div class="periodical"><em>The National TB Conference, Abuja. 2024</em></div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title">Optimizing Pediatric Tuberculosis Case-Finding Through Targeted Community to Contact Tracing Strategy - An Experience From Katsina State, Nigeria.</div>
     <div class="author"><strong>Ugochukwu L</strong>, Usman-Garba H, Oyawale M, Ogbudebe C, Tukur M, Gordon I, Odume B.</div>
     <div class="periodical"><em>The National TB Conference, Abuja. 2024</em></div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title"><a href="https://conf2023.theunion.org/wp-content/uploads/2023/12/UNION2023_Abstracts.pdf#page=290">Strengthening intensified case-finding in public facilities without diagnostic tools using the healthcare worker model: an experience from Kano State, Nigeria.</a></div>
@@ -174,6 +189,7 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
       <a href="https://conf2023.theunion.org/wp-content/uploads/2023/12/UNION2023_Abstracts.pdf#page=290" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title"><a href="https://conf2023.theunion.org/wp-content/uploads/2023/12/UNION2023_Abstracts.pdf#page=310">Improving TB case-finding through community interventions using the Wellness-on-Keke model in Nigeria.</a></div>
@@ -183,6 +199,7 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
       <a href="https://conf2023.theunion.org/wp-content/uploads/2023/12/UNION2023_Abstracts.pdf#page=310" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title"><a href="https://conf2023.theunion.org/wp-content/uploads/2023/12/UNION2023_Abstracts.pdf#page=502">Leveraging TB public health messaging to drive vaccination demand in local communities.</a></div>
@@ -192,18 +209,21 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
       <a href="https://conf2023.theunion.org/wp-content/uploads/2023/12/UNION2023_Abstracts.pdf#page=502" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title">Improving COVID-19 vaccine uptake through the provision of integrated health services: Results from KNCV Nigeria USAID-funded COVID-19 Vaccination Acceleration Project.</div>
     <div class="author">Odume B, Chidum C-Ihezue, <strong>Ugochukwu L</strong>, Kewa A, Sani U, Debby N.</div>
     <div class="periodical"><em>The Global Vaccine and Immunization Research Forum, Korea. 2023</em></div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title">Addressing COVID-19 vaccination hesitancy: Strategies and lessons learned from an integrated health service delivery with TB screening in Nigeria.</div>
     <div class="author">Chidum C-Ihezue, Useni S, Kewa A, <strong>Ugochukwu L</strong>, Nongo D, Odume B.</div>
     <div class="periodical"><em>The Nigeria Implementation Science Alliance Conference, Abuja. 2023</em></div>
  </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title"><a href="https://theunion.org/sites/default/files/2022-11/Abstract_Book_2022-compressed.pdf#page=111">Closing the TB adherence gap in Nigeria with digital adherence technologies.</a></div>
@@ -213,6 +233,7 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
       <a href="https://theunion.org/sites/default/files/2022-11/Abstract_Book_2022-compressed.pdf#page=111" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title"><a href="https://theunion.org/sites/default/files/2022-11/Abstract_Book_2022-compressed.pdf#page=117">Effect of mobile phone access on the uptake of digital adherence technologies in Nigeria.</a></div>
@@ -222,6 +243,7 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
       <a href="https://theunion.org/sites/default/files/2022-11/Abstract_Book_2022-compressed.pdf#page=117" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title"><a href="https://theunion.org/sites/default/files/2022-11/Abstract_Book_2022-compressed.pdf#page=119">Uptake of 99DOTlite against video observed therapy: lessons from the DAT pilot in Nigeria.</a></div>
@@ -231,6 +253,7 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
       <a href="https://theunion.org/sites/default/files/2022-11/Abstract_Book_2022-compressed.pdf#page=119" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
+  
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title"><a href="https://theunion.org/sites/default/files/2022-11/Abstract_Book_2022-compressed.pdf#page=121">Factors that influence uptake of digital adherence technologies in Nigeria.</a></div>
