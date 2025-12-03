@@ -5,11 +5,13 @@ layout: default
 
 ### About Me
 
-Hi I'm Lotanna, a Monitoring and Evaluation Officer of donor-funded public health programs - TB, HIV, COVID-19 & DAT.
+Hi, I’m Lotanna, a public health practitioner and epidemiology-focused researcher.
 
-My research focuses on infectious disease modelling and surveillance.
+My work centers on strengthening infectious disease surveillance, preventing transmission, and improving case detection and treatment outcomes in resource-limited settings. I’ve supported programs in TB surveillance, digital adherence technologies, COVID-19 mass vaccination, and community HIV testing services..
 
-Previously, I completed my master’s degree in Public policy from University of Ibadan
+I’m particularly interested in how data and real-world health systems can work together to improve infectious disease control. My focus areas include routine surveillance systems, spatial analysis, digital health tools, disease modelling, and implementation approaches that make interventions more effective in practice.
+
+I hold an M.Sc. in Research and Public Policy from the University of Ibadan, with training in quantitative methods, policy analysis, and research ethics. I’ve also completed professional courses in bioethics research, Monitoring and Evaluation, and Project Management in Global Health. My analytical toolkit includes Excel, Power BI, SPSS, and R.
 
  <br>
 
