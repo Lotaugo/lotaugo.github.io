@@ -27,7 +27,7 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
 
 ### News
 
-- [Nov. 2025] Four of our papers was accepted at the Union Conference
+- [Nov. 2025] Four of our papers was accepted at the <em><a href="https://conf2025.theunion.org/">Union World Conference on Lung Health, Copenhagen</a></em>.
 
 <br>
 
