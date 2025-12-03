@@ -59,7 +59,7 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
    
  <br>
 
-### Selected Conference
+### Conferences
 
 <div class="publications">
 <ul class="bibliography">
@@ -100,7 +100,7 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title">Leveraging mHealth solutions for enhanced TB case finding: The CommCare App experience in TB LON 1 & 2, KNCV Nigeria.</div>
     <div class="author">Ogogo J, Gordon I, Ugochukwu L, Ogbudebe C, Odume B.</div>
-    <div class="periodical"><em>Nigeria Implementation Science Alliance Conference, Abuja. 2025</em></div>
+    <div class="periodical"><em> The Nigeria Implementation Science Alliance Conference, Abuja. 2025</em></div>
   </div>
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
@@ -149,101 +149,95 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
   </div>
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
-    <div class="title"><a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria">The TB Surge intervention: an optimized approach to TB case-finding in Nigeria</a></div>
-    <div class="author">Ogoamaka, C., Bethrand, O., <strong>Lotanna, U.</strong>, Chidubem, O., Sani, U., Nkiru, N., Mamman, B., Daniel, E., Chijioke, O., Oloruntobi, N., and Austin, I.</div>
-    <div class="periodical"><em>Public Health Action, 13(4), pp.136-141.</em></div>
+    <div class="title">Evaluating the Impact of Online Competency Based Training (CBT) on Program Quality: The KNCV Nigeria TIFA Project Experience.</div>
+    <div class="author">Gordon I, <strong>Ugochukwu L</strong>, Chukwuogo O, Sheshi M, Odume B.</div>
+    <div class="periodical"><em>The Nigeria Implementation Science Alliance Conference, Abuja. 2024</em></div>
+  </div>
+ <li>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;">
+    <div class="title">Driving contact investigation intervention in the private sector using patent medicine vendors: an experience from the TB-LON project implementation in Katsina state.</div>
+    <div class="author"><strong>Ugochukwu L</strong>, Usman-Garba H, Oyawale M, Chukwuogo O, Ogbudebe C, Sheshi M, Gordon I, Odume B.</div>
+    <div class="periodical"><em>The National TB Conference, Abuja. 2024</em></div>
+  </div>
+ <li>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;">
+    <div class="title">Optimizing Pediatric Tuberculosis Case-Finding Through Targeted Community to Contact Tracing Strategy - An Experience From Katsina State, Nigeria.</div>
+    <div class="author"><strong>Ugochukwu L</strong>, Usman-Garba H, Oyawale M, Ogbudebe C, Tukur M, Gordon I, Odume B.</div>
+    <div class="periodical"><em>The National TB Conference, Abuja. 2024</em></div>
+  </div>
+ <li>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;">
+    <div class="title"><a href="https://conf2023.theunion.org/wp-content/uploads/2023/12/UNION2023_Abstracts.pdf#page=290">Strengthening intensified case-finding in public facilities without diagnostic tools using the healthcare worker model: an experience from Kano State, Nigeria.</a></div>
+    <div class="author"><strong>Ugochukwu L</strong>, Zephaniah G, Chukwuogo O, Babayi A, Odume B.</div>
+    <div class="periodical"><em>Abstract Book of the 2023 World Conference on Lung Health of the International Union Against Tuberculosis and Lung Disease (The Union). Int J Tuberc Lung Dis. 2023;27(Suppl 1):S282.</em></div>
     <div class="links">
-      <a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
+      <a href="https://conf2023.theunion.org/wp-content/uploads/2023/12/UNION2023_Abstracts.pdf#page=290" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
-    <div class="title"><a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria">The TB Surge intervention: an optimized approach to TB case-finding in Nigeria</a></div>
-    <div class="author">Ogoamaka, C., Bethrand, O., <strong>Lotanna, U.</strong>, Chidubem, O., Sani, U., Nkiru, N., Mamman, B., Daniel, E., Chijioke, O., Oloruntobi, N., and Austin, I.</div>
-    <div class="periodical"><em>Public Health Action, 13(4), pp.136-141.</em></div>
+    <div class="title"><a href="https://conf2023.theunion.org/wp-content/uploads/2023/12/UNION2023_Abstracts.pdf#page=310">Improving TB case-finding through community interventions using the Wellness-on-Keke model in Nigeria.</a></div>
+    <div class="author">Ekpen K, Tukur M, Odume B, Ogbudebe C, Gande S, Babayi A, Igwetu C, Ogogo J, Emefieh J, <strong>Ugochukwu L</strong>.</div>
+    <div class="periodical"><em>Abstract Book of the 2023 World Conference on Lung Health of the International Union Against Tuberculosis and Lung Disease (The Union). Int J Tuberc Lung Dis. 2023;27(Suppl 1):S310.</em></div>
     <div class="links">
-      <a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
+      <a href="https://conf2023.theunion.org/wp-content/uploads/2023/12/UNION2023_Abstracts.pdf#page=310" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
-    <div class="title"><a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria">The TB Surge intervention: an optimized approach to TB case-finding in Nigeria</a></div>
-    <div class="author">Ogoamaka, C., Bethrand, O., <strong>Lotanna, U.</strong>, Chidubem, O., Sani, U., Nkiru, N., Mamman, B., Daniel, E., Chijioke, O., Oloruntobi, N., and Austin, I.</div>
-    <div class="periodical"><em>Public Health Action, 13(4), pp.136-141.</em></div>
+    <div class="title"><a href="https://conf2023.theunion.org/wp-content/uploads/2023/12/UNION2023_Abstracts.pdf#page=502">Leveraging TB public health messaging to drive vaccination demand in local communities.</a></div>
+    <div class="author">Kewa A, <strong>Ugochukwu L</strong>, Babayi A, Chikwe-Ihezue C, Useni S, Aiyenigba B, Odume B, Mukadi YD.</div>
+    <div class="periodical"><em>Abstract Book of the 2023 World Conference on Lung Health of the International Union Against Tuberculosis and Lung Disease (The Union). Int J Tuberc Lung Dis. 2023;27(Suppl 1):S494.</em></div>
     <div class="links">
-      <a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
+      <a href="https://conf2023.theunion.org/wp-content/uploads/2023/12/UNION2023_Abstracts.pdf#page=502" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
-    <div class="title"><a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria">The TB Surge intervention: an optimized approach to TB case-finding in Nigeria</a></div>
-    <div class="author">Ogoamaka, C., Bethrand, O., <strong>Lotanna, U.</strong>, Chidubem, O., Sani, U., Nkiru, N., Mamman, B., Daniel, E., Chijioke, O., Oloruntobi, N., and Austin, I.</div>
-    <div class="periodical"><em>Public Health Action, 13(4), pp.136-141.</em></div>
+    <div class="title">Improving COVID-19 vaccine uptake through the provision of integrated health services: Results from KNCV Nigeria USAID-funded COVID-19 Vaccination Acceleration Project.</div>
+    <div class="author">Odume B, Chidum C-Ihezue, <strong>Ugochukwu L</strong>, Kewa A, Sani U, Debby N.</div>
+    <div class="periodical"><em>The Global Vaccine and Immunization Research Forum, Korea. 2023</em></div>
+  </div>
+ <li>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;">
+    <div class="title">Addressing COVID-19 vaccination hesitancy: Strategies and lessons learned from an integrated health service delivery with TB screening in Nigeria.</div>
+    <div class="author">Chidum C-Ihezue, Useni S, Kewa A, <strong>Ugochukwu L</strong>, Nongo D, Odume B.</div>
+    <div class="periodical"><em>The Nigeria Implementation Science Alliance Conference, Abuja. 2023</em></div>
+ </div>
+ <li>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;">
+    <div class="title"><a href="https://theunion.org/sites/default/files/2022-11/Abstract_Book_2022-compressed.pdf#page=111">Closing the TB adherence gap in Nigeria with digital adherence technologies.</a></div>
+    <div class="author">Gordon I, Mikailu MS, Amadi CV, <strong>Ugochukwu L</strong>, Ogbudebe C, Odume B, Efo E.</div>
+    <div class="periodical"><em>Abstract Book of the 2022 World Conference on Lung Health of the International Union Against Tuberculosis and Lung Disease (The Union). Int J Tuberc Lung Dis. 2022;26(Suppl 2):S105.</em></div>
     <div class="links">
-      <a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
+      <a href="https://theunion.org/sites/default/files/2022-11/Abstract_Book_2022-compressed.pdf#page=111" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
-    <div class="title"><a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria">The TB Surge intervention: an optimized approach to TB case-finding in Nigeria</a></div>
-    <div class="author">Ogoamaka, C., Bethrand, O., <strong>Lotanna, U.</strong>, Chidubem, O., Sani, U., Nkiru, N., Mamman, B., Daniel, E., Chijioke, O., Oloruntobi, N., and Austin, I.</div>
-    <div class="periodical"><em>Public Health Action, 13(4), pp.136-141.</em></div>
+    <div class="title"><a href="https://theunion.org/sites/default/files/2022-11/Abstract_Book_2022-compressed.pdf#page=117">Effect of mobile phone access on the uptake of digital adherence technologies in Nigeria.</a></div>
+    <div class="author">Gordon I, <strong>Ugochukwu L</strong>, Ogbudebe C, Odume B, Efo E.</div>
+    <div class="periodical"><em>Abstract Book of the 2022 World Conference on Lung Health of the International Union Against Tuberculosis and Lung Disease (The Union). Int J Tuberc Lung Dis. 2022;26(Suppl 2):S111.</em></div>
     <div class="links">
-      <a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
+      <a href="https://theunion.org/sites/default/files/2022-11/Abstract_Book_2022-compressed.pdf#page=117" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
-    <div class="title"><a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria">The TB Surge intervention: an optimized approach to TB case-finding in Nigeria</a></div>
-    <div class="author">Ogoamaka, C., Bethrand, O., <strong>Lotanna, U.</strong>, Chidubem, O., Sani, U., Nkiru, N., Mamman, B., Daniel, E., Chijioke, O., Oloruntobi, N., and Austin, I.</div>
-    <div class="periodical"><em>Public Health Action, 13(4), pp.136-141.</em></div>
+    <div class="title"><a href="https://theunion.org/sites/default/files/2022-11/Abstract_Book_2022-compressed.pdf#page=119">Uptake of 99DOTlite against video observed therapy: lessons from the DAT pilot in Nigeria.</a></div>
+    <div class="author">Gordon I, <strong>Ugochukwu L</strong>, Ogbudebe C, Odume B, Efo E.</div>
+    <div class="periodical"><em>Abstract Book of the 2022 World Conference on Lung Health of the International Union Against Tuberculosis and Lung Disease (The Union). Int J Tuberc Lung Dis. 2022;26(Suppl 2):S113.</em></div>
     <div class="links">
-      <a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
+      <a href="https://theunion.org/sites/default/files/2022-11/Abstract_Book_2022-compressed.pdf#page=119" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
-    <div class="title"><a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria">The TB Surge intervention: an optimized approach to TB case-finding in Nigeria</a></div>
-    <div class="author">Ogoamaka, C., Bethrand, O., <strong>Lotanna, U.</strong>, Chidubem, O., Sani, U., Nkiru, N., Mamman, B., Daniel, E., Chijioke, O., Oloruntobi, N., and Austin, I.</div>
-    <div class="periodical"><em>Public Health Action, 13(4), pp.136-141.</em></div>
+    <div class="title"><a href="https://theunion.org/sites/default/files/2022-11/Abstract_Book_2022-compressed.pdf#page=121">Factors that influence uptake of digital adherence technologies in Nigeria.</a></div>
+    <div class="author">Gordon I, <strong>Ugochukwu L</strong>, Ogbudebe C, Odume B, Efo E.</div>
+    <div class="periodical"><em>Abstract Book of the 2022 World Conference on Lung Health of the International Union Against Tuberculosis and Lung Disease (The Union). Int J Tuberc Lung Dis. 2022;26(Suppl 2):S115.</em></div>
     <div class="links">
-      <a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
-    </div>
-  </div>
- <li>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;">
-    <div class="title"><a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria">The TB Surge intervention: an optimized approach to TB case-finding in Nigeria</a></div>
-    <div class="author">Ogoamaka, C., Bethrand, O., <strong>Lotanna, U.</strong>, Chidubem, O., Sani, U., Nkiru, N., Mamman, B., Daniel, E., Chijioke, O., Oloruntobi, N., and Austin, I.</div>
-    <div class="periodical"><em>Public Health Action, 13(4), pp.136-141.</em></div>
-    <div class="links">
-      <a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
-    </div>
-  </div>
- <li>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;">
-    <div class="title"><a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria">The TB Surge intervention: an optimized approach to TB case-finding in Nigeria</a></div>
-    <div class="author">Ogoamaka, C., Bethrand, O., <strong>Lotanna, U.</strong>, Chidubem, O., Sani, U., Nkiru, N., Mamman, B., Daniel, E., Chijioke, O., Oloruntobi, N., and Austin, I.</div>
-    <div class="periodical"><em>Public Health Action, 13(4), pp.136-141.</em></div>
-    <div class="links">
-      <a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
-    </div>
-  </div>
- <li>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;">
-    <div class="title"><a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria">The TB Surge intervention: an optimized approach to TB case-finding in Nigeria</a></div>
-    <div class="author">Ogoamaka, C., Bethrand, O., <strong>Lotanna, U.</strong>, Chidubem, O., Sani, U., Nkiru, N., Mamman, B., Daniel, E., Chijioke, O., Oloruntobi, N., and Austin, I.</div>
-    <div class="periodical"><em>Public Health Action, 13(4), pp.136-141.</em></div>
-    <div class="links">
-      <a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
-    </div>
-  </div>
- <li>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;">
-    <div class="title"><a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria">The TB Surge intervention: an optimized approach to TB case-finding in Nigeria</a></div>
-    <div class="author">Ogoamaka, C., Bethrand, O., <strong>Lotanna, U.</strong>, Chidubem, O., Sani, U., Nkiru, N., Mamman, B., Daniel, E., Chijioke, O., Oloruntobi, N., and Austin, I.</div>
-    <div class="periodical"><em>Public Health Action, 13(4), pp.136-141.</em></div>
-    <div class="links">
-      <a href="https://www.researchgate.net/publication/376395523_The_TB_Surge_intervention_an_optimized_approach_to_TB_case-finding_in_Nigeria" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
+      <a href="https://theunion.org/sites/default/files/2022-11/Abstract_Book_2022-compressed.pdf#page=121" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
 </ul>
