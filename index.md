@@ -9,7 +9,7 @@ Hi, I’m Lotanna, a public health practitioner and epidemiology-focused researc
 
 My work centers on strengthening infectious disease surveillance, preventing transmission, and improving case detection and treatment outcomes in resource-limited settings. I’ve supported programs in TB surveillance, digital adherence technologies, COVID-19 mass vaccination, and community HIV testing services.
 
-I’m particularly interested in how data and real-world health systems can work together to improve infectious disease control. My focus areas include routine surveillance systems, spatial analysis, digital health tools, disease modelling, and implementation approaches that make interventions more effective in practice.
+I’m particularly interested in how data and real-world health systems can work together to improve infectious disease control. My focus areas include routine surveillance systems, spatial analysis, digital health tools, disease modelling, and Cost-efficient implementation approaches that drive better real-world outcomes.
 
 I hold an M.Sc. in Research and Public Policy from the University of Ibadan, with training in quantitative methods, policy analysis, and research ethics. I’ve also completed professional courses in bioethics research, Monitoring and Evaluation, and Project Management in Global Health. My analytical toolkit includes Excel, Power BI, SPSS, and R.
 
@@ -19,7 +19,7 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
 
 - Epidemiology
 - Infectious Disease modelling and Surveillance
-- Epi Methods
+- Resource optimization of healthcare interventions
 - Digital Health
 - Implementation science
 
@@ -56,7 +56,7 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
   <div class="col-sm-9" style="position: relative;padding-right: 15px;">
     <div class="title">Routine Active Case Finding in Nigerian Penitentiary Institutions: Comparing Yields from Digital X-Ray with CAD4TB and WHO 4-Symptom Screening.</div>
     <div class="author">Chukwuogo, O., Odume, B., <strong>Ugochukwu, L.</strong>, Ogbudebe, C., Chukwu, E., Useni, S., Nwokoye, N., Sheshi, M., Nongo, D., Ihesie, A., Eneogu, R., Ubochioma, E.</div>
-    <div class="periodical"><em>BMC Infectious Diseases. Under review.</em></div>
+    <div class="periodical"><em>BMC Infectious Diseases.</em></div>
   </div>
    
  <br>
@@ -264,8 +264,6 @@ I hold an M.Sc. in Research and Public Policy from the University of Ibadan, wit
       <a href="https://theunion.org/sites/default/files/2022-11/Abstract_Book_2022-compressed.pdf#page=121" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
     </div>
   </div>
-</ul>
-</div>
 </li><br>
 <br>
 
